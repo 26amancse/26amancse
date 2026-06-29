@@ -1,4 +1,4 @@
-<img data-importer="image" align="right" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1voCOOHCSK3PFpNOGJdiIyAxjTYhKsM4SzrHd2p59zA&s=10"  />
+<img data-importer="image" align="right" height="240" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1voCOOHCSK3PFpNOGJdiIyAxjTYhKsM4SzrHd2p59zA&s=10"  />
 
 ###
 
@@ -20,9 +20,6 @@
   </a>
   <a href="https://www.instagram.com/a.m.a.n_x1n/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="amankiit26@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
