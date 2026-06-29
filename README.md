@@ -30,17 +30,8 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/26amancse/26amancse/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/26amancse/26amancse/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=26amancse&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/26amancse/26amancse/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/26amancse/26amancse/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=26amancse&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
